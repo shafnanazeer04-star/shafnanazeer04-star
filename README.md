@@ -19,7 +19,6 @@ const Shafna jahan = {
     motto: "Learn continuously, code passionately, and build with purpose 🚀"
 };
 
-// Initializing Jahan's digital journey... 🌐
 console.log("Welcome to Shafna Jahan's digital space!");
 ```
 

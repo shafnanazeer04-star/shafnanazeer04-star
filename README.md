@@ -1,4 +1,43 @@
-# Hi there 👋, I'm Shafna jahan Nazeer
+# 🚀 About Me:
+
+```js
+const Shafna jahan = {
+    role: "IT Undergraduate & Aspiring Software Developer",
+    education: "BSc Hons Information Technology @ University of Moratuwa 🎓",
+    currentFocus: [
+        "Web Development",
+        "Software Engineering",
+        "Cybersecurity Fundamentals"
+    ],
+    workingOn: "Building projects and improving programming skills",
+    exploring: [
+        "Secure Application Development",
+        "Modern Web Technologies",
+        "Problem Solving"
+    ],
+    passion: "Creating meaningful solutions through technology",
+    motto: "Learn continuously, code passionately, and build with purpose 🚀"
+};
+
+// Initializing Jahan's digital journey... 🌐
+console.log("Welcome to Shafna Jahan's digital space!");
+```
+
+🎯 **Technology Explorer** - Learning and experimenting with modern software technologies
+💻 **Development Focused** - Building applications while improving programming skills
+🔐 **Security Curious** - Exploring cybersecurity to understand and create safer digital solutions
+
+---
+
+## 🌐 Connect & Collaborate:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.dev)
+
+---
+
+## 💻 Technology Stack:
 
 ### 💾 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,9 +63,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 💻 Development Environments
+### 🛠️ Development Environment
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+⭐️ From [Jahan](https://github.com/YOUR-GITHUB)
+
